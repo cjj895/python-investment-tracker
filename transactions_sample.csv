@@ -1,0 +1,14 @@
+date,type,category,asset,ticker,quantity,price,amount,account,notes
+2026-01-05,income,salary,Monthly Allowance,,0,0,1200,bank-spendable,January allowance
+2026-01-08,expense,food,Lunch,,0,0,-8.50,cash,Canteen meal
+2026-01-10,expense,transport,MRT,,0,0,-45.00,bank-spendable,Monthly MRT
+2026-01-12,investment,investment,Apple Inc,AAPL,2,180.00,-360.00,brokerage,Initial AAPL buy
+2026-01-15,investment,investment,NVIDIA Corp,NVDA,3,150.00,-450.00,brokerage,Initial NVDA buy
+2026-02-01,income,salary,Monthly Allowance,,0,0,1200,bank-spendable,February allowance
+2026-02-06,expense,subscription,Spotify,,0,0,-9.98,bank-spendable,Monthly subscription
+2026-02-10,investment,investment,Apple Inc,AAPL,1,175.00,-175.00,brokerage,Add to AAPL
+2026-02-18,investment,investment,NVIDIA Corp,NVDA,-1,165.00,165.00,brokerage,Partial NVDA sell
+2026-03-01,income,salary,Monthly Allowance,,0,0,1200,bank-spendable,March allowance
+2026-03-04,expense,food,Dinner,,0,0,-15.20,cash,Outside meal
+2026-03-10,investment,investment,Apple Inc,AAPL,1,190.00,-190.00,brokerage,Add to AAPL
+2026-03-20,expense,education,Online Course,,0,0,-120.00,bank-spendable,Python finance course
