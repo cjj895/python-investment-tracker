@@ -6,7 +6,7 @@ The **Personal Investment Tracker** is a Python-based tool designed to help inve
 This project demonstrates practical **data analytics, Python programming, financial calculations, and visualisation skills**. A greater focus is placed on **clarity, correctness, and usability** rather than **advanced quantitative modelling**. 
 
 ## Motivation
-This project was built to create a structured, data-driven approach to portfolio tracking while applying core concepts in Python, finance, and data analysis to a real-world use case.
+This project was built to create a **structured, data-driven approach to portfolio tracking** while applying core concepts in **Python, finance, and data analysis** to a real-world use case.
 
 ## Features
 
